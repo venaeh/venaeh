@@ -1,13 +1,9 @@
 <!-- Banner -->
-<h1 align="center"> Hello Everyone </h1>
-<p align="center">
-	<img src="img/sky.gif" alt="banner" width="850">
-</p>    
+<h1> Hello Everyone </h1>
 
 ---
 
 <!-- Introduction -->
-<details open>
  <summary align="center"><h1>About Me</h1></summary>
  <p align="center">
 	<img src="img/jk1.jpg" alt="banner" width="250"/>
@@ -19,7 +15,6 @@
  <li>Front-end Developer<br>
  <li>Digital Illustrator<br>
  <li>Musician<br>
-</details>
 
 ---
 
