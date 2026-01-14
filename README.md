@@ -60,64 +60,49 @@
 <details open>
  <summary align="center">
  <h1>Recommended App to Use</h1>
- </summary>
  <!-- App I Recently Use -->
- <p>
-  <a>
-   <img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
-  </a>
- </P>
- <details>
- <summary>Details</summary>
+ <h2>Krita</h2>
  <p>
     <a href="https://ibispaint.com/?lang=en-US">
-		<img src="img/icon/ibisPaint.jpeg" alt="IbisPaint" width="75"/>
+		<img src="img/icon/ipx-logo.jpeg" alt="IbisPaint"/>
 	</a>
  </p>
- </details>
 
  ---
-
- <p>
-  <a>
-   <img src="img/icon/csp-logo.jpeg" alt="IbisPaintX"/>
-  </a>
- </P>
- <details>
- <summary>Details</Summary>
+ 
+ <h2>Clip Studio Paint</h2>
  <p>
     <a href="https://www.clipstudio.net/id/?gad_source=1&gad_campaignid=23080048490&gbraid=0AAAAADy1cQlZF2p86WuDyg86HSalL-oxD&gclid=Cj0KCQiAsY3LBhCwARIsAF6O6XjwBa7wHL_RPCE-Q-mKP_UJv5RTceVTSweRL4CFep9nJVgShmaYBKMaAvFIEALw_wcB">
-		<img src="img/icon/ClipStudioPaint.png" alt="ClipStudioPaint" width="75"/>
+		<img src="img/icon/csp-logo.jpeg" alt="ClipStudioPaint"/>
 	</a>
  </p>
- </details>
 
  ---
 
- <details open>
- <summary><h2>Krita</h2></summary>
+ <h2>Krita</h2>
  <p>
     <a href="https://krita.org/en/">
 		<img src="img/icon/krita-logo.jpeg" alt="Krita"/>
 	</a>
  </p>
- </details>
- <details open>
- <summary><h2>Visual Studio Code</h2></summary>
+
+ ---
+
+ <h2>Visual Studio Code</h2>
  <p>
     <a href="https://code.visualstudio.com/">
 		<img src="img/icon/vscode-logo.jpeg" alt="VisualStudioCode"/>
 	</a>
  </p>
- </details>
- <details open>
- <summary><h2>BandLab</h2></summary>
+
+ ---
+
+ <h2>BandLab</h2>
  <p>	
 	<a href="https://www.bandlab.com/">
 		<img src="img/icon/bandlab-logo.jpeg" alt="VisualStudioCode"/>
 	</a>
  </p>
- </details>
 </details>
 
 ---
