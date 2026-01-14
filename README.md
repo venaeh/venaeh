@@ -58,24 +58,42 @@
 ---
 
 <details open>
-<summary align="center"><h1>Recommended App to Use</h1></summary>
+ <summary align="center">
+ <h1>Recommended App to Use</h1>
+ </summary>
  <!-- App I Recently Use -->
- <details><h2>ibisPaint</h2>
- <summary><img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/></summary>
+ <p>
+  <a>
+   <img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
+  </a>
+ </P>
+ <details>
+ <summary>Details</summary>
  <p>
     <a href="https://ibispaint.com/?lang=en-US">
 		<img src="img/icon/ibisPaint.jpeg" alt="IbisPaint" width="75"/>
 	</a>
  </p>
  </details>
- <details open>
- <summary><h2>Clip Studio Paint</h2></Summary>
+
+ ---
+
+ <p>
+  <a>
+   <img src="img/icon/csp-logo.jpeg" alt="IbisPaintX"/>
+  </a>
+ </P>
+ <details>
+ <summary>Details</Summary>
  <p>
     <a href="https://www.clipstudio.net/id/?gad_source=1&gad_campaignid=23080048490&gbraid=0AAAAADy1cQlZF2p86WuDyg86HSalL-oxD&gclid=Cj0KCQiAsY3LBhCwARIsAF6O6XjwBa7wHL_RPCE-Q-mKP_UJv5RTceVTSweRL4CFep9nJVgShmaYBKMaAvFIEALw_wcB">
-		<img src="img/icon/csp-logo.jpeg" alt="ClipStudioPaint"/>
+		<img src="img/icon/ClipStudioPaint.png" alt="ClipStudioPaint" width="75"/>
 	</a>
  </p>
  </details>
+
+ ---
+
  <details open>
  <summary><h2>Krita</h2></summary>
  <p>
