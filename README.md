@@ -7,17 +7,20 @@
 ---
 
 <!-- Introduction -->
+<details open>
+ <summary align="center"><h1>My Work</h1></summary>
 <h1 align="center"> About Me </h1>
 <p align="center">
 	<img src="img/jk1.jpg" alt="banner" width="250"/>
 </p>
 <h4 align="center">
 	My name is Ashton Blake, a professional Digital Artist working in the field of digital illustration with experience in developing visual concepts and creative works based on digital art.
-<!-- Job & Areas of Experties -->
-<h3 align="center">Job & Areas of Expertise :</h3>
-<li>Front-end Developer<br>
-<li>Digital Illustrator<br>
-<li>Musician<br>
+ <!-- Job & Areas of Experties -->
+ <h3 align="center">Job & Areas of Expertise :</h3>
+ <li>Front-end Developer<br>
+ <li>Digital Illustrator<br>
+ <li>Musician<br>
+</details>
 
 ---
 
