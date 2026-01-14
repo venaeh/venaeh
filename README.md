@@ -83,6 +83,9 @@
     <a href="https://code.visualstudio.com/">
 		<img src="img/icon/vscode-logo.jpeg" alt="VisualStudioCode"/>
 	</a>
+	<a href="https://www.bandlab.com/">
+		<img src="img/icon/bandlab-logo.jpeg" alt="VisualStudioCode"/>
+	</a>
 </p>
 
 </details>
