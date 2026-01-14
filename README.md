@@ -27,7 +27,7 @@
  <!--Music I Made-->
  <h2>My Music</h2>
  <p align="center">
-  <a href="https://youtu.be/8bLnT8_RVaE?si=GDdOHL4mkHM7uaKm">
+  <a href="https://youtu.be/GNlNJHAuceE">
    <img src="img/Album/img-4.jpg" alt="banner" />
   </a>
  </p>
@@ -52,11 +52,8 @@
 
 <details open>
 <summary align="center"><h1>Recommended App to Use</h1></summary>
-<!-- App I Recently Use -->
-
-
- 
-<p>
+ <!-- App I Recently Use -->
+ <p>
     <a href="https://ibispaint.com/?lang=en-US">
 		<img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
 	</a>
@@ -72,8 +69,7 @@
 	<a href="https://www.bandlab.com/">
 		<img src="img/icon/bandlab-logo.jpeg" alt="VisualStudioCode"/>
 	</a>
-</p>
-
+ </p>
 </details>
 
 ---
