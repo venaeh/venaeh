@@ -1,36 +1,27 @@
- <!-- **venaeh/venaeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 <!-- Banner -->
-
 <h1 align="center"> Hello Everyone </h1>
-
 <p align="center">
 	<img src="img/sky.gif" alt="banner" width="850">
 </p>    
 
 ---
 
-<!-- Perkenalan -->
-
+<!-- Introduction -->
 <h1 align="center"> About Me </h1>
-
 <p align="center">
 	<img src="img/jk1.jpg" alt="banner" width="250"/>
 </p>
 <h4 align="center">
 	My name is Ashton Blake, a professional Digital Artist working in the field of digital illustration with experience in developing visual concepts and creative works based on digital art.
-
-<!-- Bidang Penguasaan -->
-
+<!-- Job & Areas of Experties -->
 <h3 align="center">Job & Areas of Expertise :</h3>
 <li>Front-end Developer<br>
 <li>Digital Illustrator<br>
 <li>Musician<br>
 
-<!-- Album Images -->
-
 ---
 
+ <!-- My Work -->
 <details open>
  <summary></summary>
 
@@ -43,9 +34,6 @@
    <img src="img/Album/img-4.jpg" alt="banner" />
   </a>
  </p>
- 
-
- <!-- <img src="">-->
 
  ---
 
@@ -65,8 +53,7 @@
 
 <details open>
 <summary></summary>
-
-<!-- Aplikasi yang kugunakan -->
+<!-- App I Recently Use -->
 
 # Recommended App & I Like to Use
 
@@ -95,7 +82,6 @@
 <details open>
  <summary></summary>
  <!-- Tech Stack -->
-
  <h2 align="center"> Tech Stack </h2>
  <p align="center">
     <a href="###">
@@ -114,18 +100,18 @@
 </details>
 
 ---
-
-<!-- Connections 1 -->
-<h2 align="center"> Connections </h2>
-<p align="center">
+<details open>
+ <summary></summary>
+ <!-- Connections 1 -->
+ <h2 align="center"> Connections </h2>
+ <p align="center">
     <a href="https://discord.gg/HATPxmFbEQ">
 		<img src="img/icon/discord-button.gif" alt="Discord" width="115"/>
 	</a>
-</p>
+ </p>
 
-<!-- Connections 2 -->
-
-<p align="center">
+ <!-- Connections 2 -->
+ <p align="center">
     <a href="https://www.youtube.com/@beashton">
 		<img src="img/icon/youtube.ico" alt="YouTube" width="150" height="150" />
 	</a>
@@ -141,11 +127,9 @@
     <a href="https://x.com/beashton_exe">
 		<img src="img/icon/facebook.ico" alt="Facebook" width="150" height="150"/>
     </a>
-</p>
-
-<!-- Connections 3 -->
-
-<p align="center">
+ </p>
+ <!-- Connections 3 -->
+ <p align="center">
     <a href="###">
 		<img src="img/icon/google.ico" alt="Twitter" width="150" height="150"/>
 	</a>
