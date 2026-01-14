@@ -25,10 +25,9 @@
 <details open>
  <summary></summary>
 
- <h1> My Work </h1>
-
- <h2 align="center"> My Music </h2>
-
+ <h1>My Work</h1>
+ <!--Music I Made-->
+ <h2 align="center">My Music</h2>
  <p align="center">
   <a href="https://youtu.be/8bLnT8_RVaE?si=GDdOHL4mkHM7uaKm">
    <img src="img/Album/img-4.jpg" alt="banner" />
@@ -37,12 +36,14 @@
 
  ---
 
- <h2 align="center"> My Artwork </h2>
+ <!--Recently Artwork-->
+ <h2 align="center">Artwork</h2>
+ <!--Section 1-->
  <p>
     <img src="img/Album/cardimg-2.png" alt="banner" width="250" height="350"/>
 	<img src="img/Album/cardimg-1.png" alt="banner" width="250"/>
  </p>
- 
+ <!--Section 2-->
  <p>
 	<img src="img/Album/img-6.png" alt="banner" width="250" height="350"/>
 	<img src="img/Album/img-8.jpg" alt="banner" width="250" height="350"/>
