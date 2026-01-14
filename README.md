@@ -54,7 +54,7 @@
 ---
 
 <h1 align="center">Recommended App to Use</h1>
-<details open>
+<details>
  <summary align="center">click here</summary>
  <!-- App I Recently Use -->
 
