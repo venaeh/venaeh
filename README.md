@@ -25,7 +25,7 @@
 
 <!-- My Work -->
 <h1 align="center">My Work</h1>
-<details open>
+<details>
 <summary align="center">Click Here</summary>
  <!--Music I Made-->
   <summary><h2>My Music</h2></summary>
