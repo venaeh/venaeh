@@ -24,24 +24,21 @@
 ---
 
 <!-- My Work -->
+<h1 align="center">My Work</h1>
 <details open>
- <summary align="center"><h1>My Work</h1></summary>
+<summary align="center">Click Here</summary>
  <!--Music I Made-->
- <details open>
   <summary><h2>My Music</h2></summary>
   <p align="center">
    <a href="https://youtu.be/GNlNJHAuceE">
     <img src="img/Album/img-4.jpg" alt="banner" />
    </a>
   </p>
- </details>
-
 
  ---
 
  <!--Recently Artwork-->
-  <details open>
-  <summary><h2>Artwork</h2></summary>
+ <h2>Artwork</h2>
  <!--Section 1-->
   <p>
     <img src="img/Album/cardimg-2.png" alt="banner" width="250" height="350"/>
@@ -52,14 +49,13 @@
 	<img src="img/Album/img-6.png" alt="banner" width="250" height="350"/>
 	<img src="img/Album/img-8.jpg" alt="banner" width="250" height="350"/>
   </p>
- </details>
 </details>
 
 ---
 
+<h1 align="center">Recommended App to Use</h1>
 <details open>
- <summary align="center">
- <h1>Recommended App to Use</h1>
+ <summary align="center">click here</summary>
  <!-- App I Recently Use -->
 
  ---
@@ -109,9 +105,9 @@
 </details>
 
 ---
-
-<details open>
- <summary align="center"><h1>Tech Stack</h1></summary>
+<h1 align="center">Tech Stack</h1>
+<details>
+ <summary align="center">Click Here</summary>
  <!-- Tech Stack -->
  <p align="center">
     <a href="###">
@@ -130,8 +126,9 @@
 </details>
 
 ---
-<details open>
- <summary align="center"><h1>Connections</h1></summary>
+<h1 align="center">Connections</h1>
+<details>
+ <summary align="center">Click Here</summary>
  <!-- Connections 1 -->
  <p align="center">
     <a href="https://discord.gg/HATPxmFbEQ">
