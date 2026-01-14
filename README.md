@@ -23,7 +23,7 @@
 <details>
 <summary align="center">Click Here</summary>
  <!--Music I Made-->
-  <summary><h2>My Music</h2></summary>
+  <summary><h2>Music</h2></summary>
   <p align="center">
    <a href="https://youtu.be/GNlNJHAuceE">
     <img src="img/Album/img-4.jpg" alt="banner" />
@@ -33,7 +33,7 @@
  ---
 
  <!--Recently Artwork-->
- <h2>Artwork</h2>
+ <h2>Illustration</h2>
  <!--Section 1-->
   <p>
     <img src="img/Album/cardimg-2.png" alt="banner" width="250" height="350"/>
