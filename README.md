@@ -25,9 +25,9 @@
 <details open>
  <summary></summary>
 
- <h1>My Work</h1>
+ <h1 align="center">My Work</h1>
  <!--Music I Made-->
- <h2 align="center">My Music</h2>
+ <h2>My Music</h2>
  <p align="center">
   <a href="https://youtu.be/8bLnT8_RVaE?si=GDdOHL4mkHM7uaKm">
    <img src="img/Album/img-4.jpg" alt="banner" />
@@ -37,7 +37,7 @@
  ---
 
  <!--Recently Artwork-->
- <h2 align="center">Artwork</h2>
+ <h2>Artwork</h2>
  <!--Section 1-->
  <p>
     <img src="img/Album/cardimg-2.png" alt="banner" width="250" height="350"/>
@@ -56,8 +56,7 @@
 <summary></summary>
 <!-- App I Recently Use -->
 
-# Recommended App I Like to Use
-
+<h1 align="center">Recommended App to Use</h1>
 <p>
     <a href="https://ibispaint.com/?lang=en-US">
 		<img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
