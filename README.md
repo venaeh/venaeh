@@ -61,7 +61,7 @@
 <summary align="center"><h1>Recommended App to Use</h1></summary>
  <!-- App I Recently Use -->
  <details><h2>ibisPaint</h2>
- <summary align="center">
+ <summary>
  <img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
  </summary>
  <p>
