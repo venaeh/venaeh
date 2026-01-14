@@ -8,12 +8,11 @@
 
 <!-- Introduction -->
 <details open>
- <summary align="center"><h1>My Work</h1></summary>
-<h1 align="center"> About Me </h1>
-<p align="center">
+ <summary align="center"><h1>About Me</h1></summary>
+ <p align="center">
 	<img src="img/jk1.jpg" alt="banner" width="250"/>
-</p>
-<h4 align="center">
+ </p>
+ <h4 align="center">
 	My name is Ashton Blake, a professional Digital Artist working in the field of digital illustration with experience in developing visual concepts and creative works based on digital art.
  <!-- Job & Areas of Experties -->
  <h3 align="center">Job & Areas of Expertise :</h3>
@@ -61,19 +60,31 @@
 <details open>
 <summary align="center"><h1>Recommended App to Use</h1></summary>
  <!-- App I Recently Use -->
+ <details open>
+ <summary><h2>Ibis Paint</h2></summary>
  <p>
     <a href="https://ibispaint.com/?lang=en-US">
 		<img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
 	</a>
+ </p>
+ </details>
+ <details>
+ <p>
     <a href="https://www.clipstudio.net/id/?gad_source=1&gad_campaignid=23080048490&gbraid=0AAAAADy1cQlZF2p86WuDyg86HSalL-oxD&gclid=Cj0KCQiAsY3LBhCwARIsAF6O6XjwBa7wHL_RPCE-Q-mKP_UJv5RTceVTSweRL4CFep9nJVgShmaYBKMaAvFIEALw_wcB">
 		<img src="img/icon/csp-logo.jpeg" alt="ClipStudioPaint"/>
 	</a>
+ </p>
+ <p>
     <a href="https://krita.org/en/">
 		<img src="img/icon/krita-logo.jpeg" alt="Krita"/>
 	</a>
+ </p>
+ <p>	
     <a href="https://code.visualstudio.com/">
 		<img src="img/icon/vscode-logo.jpeg" alt="VisualStudioCode"/>
 	</a>
+ </p>
+ <p>	
 	<a href="https://www.bandlab.com/">
 		<img src="img/icon/bandlab-logo.jpeg" alt="VisualStudioCode"/>
 	</a>
