@@ -56,9 +56,9 @@
 <summary></summary>
 <!-- App I Recently Use -->
 
-# Recommended App & I Like to Use
+# Recommended App I Like to Use
 
-<p align="center">
+<p>
     <a href="https://ibispaint.com/?lang=en-US">
 		<img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
 	</a>
