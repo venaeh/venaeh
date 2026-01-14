@@ -61,7 +61,10 @@
  <summary align="center">
  <h1>Recommended App to Use</h1>
  <!-- App I Recently Use -->
- <h2>Krita</h2>
+
+ ---
+
+ <h2>ibisPaint</h2>
  <p>
     <a href="https://ibispaint.com/?lang=en-US">
 		<img src="img/icon/ipx-logo.jpeg" alt="IbisPaint"/>
@@ -69,7 +72,7 @@
  </p>
 
  ---
- 
+
  <h2>Clip Studio Paint</h2>
  <p>
     <a href="https://www.clipstudio.net/id/?gad_source=1&gad_campaignid=23080048490&gbraid=0AAAAADy1cQlZF2p86WuDyg86HSalL-oxD&gclid=Cj0KCQiAsY3LBhCwARIsAF6O6XjwBa7wHL_RPCE-Q-mKP_UJv5RTceVTSweRL4CFep9nJVgShmaYBKMaAvFIEALw_wcB">
