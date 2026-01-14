@@ -23,7 +23,7 @@
 
 <!-- My Work -->
 <details open>
- <summary><h1 align="center">My Work</h1></summary>
+ <summary align="center"><h1>My Work</h1></summary>
  <!--Music I Made-->
  <h2>My Music</h2>
  <p align="center">
@@ -79,7 +79,7 @@
 ---
 
 <details open>
- <summary><h1 align="center"> Tech Stack </h1></summary>
+ <summary align="center"><h1>Tech Stack</h1></summary>
  <!-- Tech Stack -->
  <p align="center">
     <a href="###">
@@ -99,7 +99,7 @@
 
 ---
 <details open>
- <summary><h1 align="center">Connections</h1></summary>
+ <summary align="center"><h1>Connections</h1></summary>
  <!-- Connections 1 -->
  <p align="center">
     <a href="https://discord.gg/HATPxmFbEQ">
