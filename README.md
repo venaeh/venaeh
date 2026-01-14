@@ -28,27 +28,32 @@
 <details open>
  <summary align="center"><h1>My Work</h1></summary>
  <!--Music I Made-->
- <h2>My Music</h2>
- <p align="center">
-  <a href="https://youtu.be/GNlNJHAuceE">
-   <img src="img/Album/img-4.jpg" alt="banner" />
-  </a>
- </p>
+ <details open>
+  <summary><h2>My Music</h2></summary>
+  <p align="center">
+   <a href="https://youtu.be/GNlNJHAuceE">
+    <img src="img/Album/img-4.jpg" alt="banner" />
+   </a>
+  </p>
+ </details>
+
 
  ---
 
  <!--Recently Artwork-->
- <h2>Artwork</h2>
+  <details open>
+  <summary><h2>Artwork</h2></summary>
  <!--Section 1-->
- <p>
+  <p>
     <img src="img/Album/cardimg-2.png" alt="banner" width="250" height="350"/>
 	<img src="img/Album/cardimg-1.png" alt="banner" width="250"/>
- </p>
+  </p>
  <!--Section 2-->
- <p>
+  <p>
 	<img src="img/Album/img-6.png" alt="banner" width="250" height="350"/>
 	<img src="img/Album/img-8.jpg" alt="banner" width="250" height="350"/>
- </p>
+  </p>
+ </details>
 </details>
 
 ---
