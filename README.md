@@ -23,9 +23,7 @@
 
 <!-- My Work -->
 <details open>
- <summary></summary>
-
- <h1 align="center">My Work</h1>
+ <summary><h1 align="center">My Work</h1></summary>
  <!--Music I Made-->
  <h2>My Music</h2>
  <p align="center">
@@ -53,10 +51,11 @@
 ---
 
 <details open>
-<summary></summary>
+<summary><h1 align="center">Recommended App to Use</h1></summary>
 <!-- App I Recently Use -->
 
-<h1 align="center">Recommended App to Use</h1>
+
+ 
 <p>
     <a href="https://ibispaint.com/?lang=en-US">
 		<img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
@@ -80,9 +79,8 @@
 ---
 
 <details open>
- <summary></summary>
+ <summary><h1 align="center"> Tech Stack </h1></summary>
  <!-- Tech Stack -->
- <h2 align="center"> Tech Stack </h2>
  <p align="center">
     <a href="###">
 		<img src="img/icon/icons8-html-5.svg" alt="HTML5" width="125" height="125"/>
@@ -101,9 +99,8 @@
 
 ---
 <details open>
- <summary></summary>
+ <summary><h1 align="center">Connections</h1></summary>
  <!-- Connections 1 -->
- <h2 align="center"> Connections </h2>
  <p align="center">
     <a href="https://discord.gg/HATPxmFbEQ">
 		<img src="img/icon/discord-button.gif" alt="Discord" width="115"/>
