@@ -51,7 +51,7 @@
 ---
 
 <details open>
-<summary><h1 align="center">Recommended App to Use</h1></summary>
+<summary align="center"><h1>Recommended App to Use</h1></summary>
 <!-- App I Recently Use -->
 
 
