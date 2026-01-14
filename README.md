@@ -3,7 +3,7 @@
 <!-- Banner -->
 
 <p align="center">
-	<img src="img/sky.gif" alt="banner" />
+	<img src="img/sky.gif" alt="banner" width="850">
 </p>    
 
 ---
