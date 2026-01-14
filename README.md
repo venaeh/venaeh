@@ -60,14 +60,11 @@
 <details open>
 <summary align="center"><h1>Recommended App to Use</h1></summary>
  <!-- App I Recently Use -->
- <a href="####">
-		<img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
- </a>
  <details>
- <summary><h2>ibisPaint</h2></summary>
- <p>
+ <summary align="center"><img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/></summary>
+ <p align="center">
     <a href="https://ibispaint.com/?lang=en-US">
-		<img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
+		<img src="img/icon/ibisPaint.jpeg" alt="IbisPaint" width="75"/>
 	</a>
  </p>
  </details>
