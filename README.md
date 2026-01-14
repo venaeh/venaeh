@@ -62,7 +62,7 @@
  <!-- App I Recently Use -->
  <a href="####">
 		<img src="img/icon/ipx-logo.jpeg" alt="IbisPaintX"/>
-	</a>
+ </a>
  <details>
  <summary><h2>ibisPaint</h2></summary>
  <p>
