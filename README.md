@@ -2,6 +2,8 @@
 
 <!-- Banner -->
 
+<h1 align="center"> Hello Everyone </h1>
+
 <p align="center">
 	<img src="img/sky.gif" alt="banner" width="850">
 </p>    
