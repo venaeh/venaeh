@@ -1,5 +1,8 @@
 <!-- Banner -->
 <h1> Hello Everyone </h1>
+<p align="center">
+	<img src="img/banner2.jpg" alt="banner"/>
+ </p>
 
 ---
 
@@ -23,7 +26,7 @@
 <details>
 <summary align="center">Click Here</summary>
  <!--Music I Made-->
-  <summary><h2>Music</h2></summary>
+  <summary><h2>My Music</h2></summary>
   <p align="center">
    <a href="https://youtu.be/GNlNJHAuceE">
     <img src="img/Album/img-4.jpg" alt="banner" />
