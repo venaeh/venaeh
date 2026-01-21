@@ -9,7 +9,9 @@
 <!-- Introduction -->
  <summary align="center"><h1>About Me</h1></summary>
  <p align="center">
-	<img src="img/jk1.jpg" alt="banner" width="250"/>
+  <a href="https://venaeh.github.io/NullPoint/">
+    <img src="img/jk1.jpg" alt="banner" width="250"/>
+  </a>
  </p>
  <h4 align="center">
 	My name is Ashton Blake, a professional Digital Artist working in the field of digital illustration with experience in developing visual concepts and creative works based on digital art.
